@@ -1,2 +1,33 @@
-# Java_Code
-Java practice repository containing coding exercises, problem-solving programs, and core Java concepts including loops, arrays, strings, OOP, collections, and exception handling. Created to improve programming skills, logical thinking, and overall Java development knowledge through regular practice.
+# Java Practice Codes ☕
+
+This repository contains my Java practice programs and coding exercises.  
+I use this repo to improve my understanding of Java programming concepts, problem-solving, and logic building.
+
+## 📌 Topics Covered
+
+- Basic Java Programs
+- Variables & Data Types
+- Operators & Conditions
+- Loops & Patterns
+- Arrays & Strings
+- Functions / Methods
+- Object-Oriented Programming (OOP)
+- Exception Handling
+- File Handling
+- Collections Framework
+- Practice Questions & Mini Problems
+
+## 🚀 Purpose
+
+The main goal of this repository is to:
+
+- Practice Java regularly
+- Improve coding skills
+- Build strong programming fundamentals
+- Track learning progress
+
+## 🛠️ Technologies Used
+
+- Java
+- VS Code / IntelliJ IDEA
+- JDK
