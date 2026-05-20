@@ -1,3 +1,5 @@
+//Write a array of 5 floats and calculate their sum.
+
 public class array_01 {
     
     public static void main(String[] args) {
